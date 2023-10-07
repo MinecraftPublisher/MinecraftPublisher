@@ -4,8 +4,8 @@ My name is Martia, I am a 16 year old programmer from Iran with an interest in p
 ### Experience
 #### Programming languages:
 - C#: 6 years (starting language) (many projects)
-- Frontend: ~4 years (many projects and websites)
-- Backend: ~5 years (many projects and websites)
+- Frontend (Javascript/Typescript/HTML/CSS): ~4 years (many projects and websites)
+- Backend (C#/NodeJS): ~5 years (many projects and websites)
 - C/C++: ~2 years (few public projects)
 - PHP: ~6 years (second starting language) (many websites)
 - Rust: <1 year (1 or 2 projects)
@@ -15,6 +15,10 @@ My name is Martia, I am a 16 year old programmer from Iran with an interest in p
 - Tailwind & DaisyUI: <1 year
 - ReactJS: <1 year
 - ASP.Net: <1 year
+- ExpressJS: ~3 years
+- Discord.JS: ~1 year
+- NodeJS: ~4 years
+- Bun: ~1 year
 
 ### Cool stats
 
