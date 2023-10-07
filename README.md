@@ -7,6 +7,9 @@ My name is Martia, I am a 16 year old programmer from Iran with an interest in p
 - Frontend: ~4 years (many projects and websites)
 - Backend: ~5 years (many projects and websites)
 - C/C++: ~2 years (few public projects)
+- PHP: ~6 years (second starting language) (many websites)
+- Rust: <1 year (1 or 2 projects)
+- Nim: ~2 years (a few projects)
 
 #### Technologies:
 - Tailwind & DaisyUI: <1 year
