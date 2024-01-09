@@ -3,11 +3,11 @@ My name is Martia, I am a 16 year old programmer from Iran with an interest in p
 
 ### Experience
 #### Programming languages:
-- C#: 6 years (starting language) (many projects)
-- Frontend (Javascript/Typescript/HTML/CSS): ~4 years (many projects and websites)
-- Backend (C#/NodeJS): ~5 years (many projects and websites)
-- C/C++: ~2 years (few public projects)
-- PHP: ~6 years (second starting language) (many websites)
+- C#: 7 years (starting language) (many projects)
+- Frontend (Javascript/Typescript/HTML/CSS): ~5 years (many projects and websites)
+- Backend (C#/NodeJS): ~6 years (many projects and websites)
+- C/C++: ~3 years (few public projects)
+- PHP: ~7 years (second starting language) (many websites that are down)
 - Rust: <1 year (1 or 2 projects)
 - Nim: ~2 years (a few projects)
 
